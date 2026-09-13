@@ -6,7 +6,7 @@ pluginManagement {
         assert path != null
         return path
     }()
-    settings.ext.flutterSdkPath = flutterSdkPath()
+    settings.ext.flutterSdkPath = flutterSdkPath
     includeBuild("${settings.ext.flutterSdkPath}/packages/flutter_tools/gradle")
     repositories { google(); mavenCentral(); gradlePluginPortal() }
 }
