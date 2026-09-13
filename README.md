@@ -1,19 +1,17 @@
-# SIMMANO PENGAJIAN V1 Lite — BAGIAN 01
-## Fondasi Aplikasi
+# SIMMANO PENGAJIAN V1 Lite — BAGIAN 02
 
-Checkpoint pertama pembangunan aplikasi.
+Checkpoint pengembangan: **Kelompok & Anggota**.
 
-Cakupan:
-- Flutter Android
-- Tema dasar UI
-- Login
-- Role: Ketua, Bendahara, Sekretaris, Anggota
-- Navigasi dasar
-- Database lokal SQLite
-- Session lokal
-- GitHub Actions untuk membuat APK
+Berbasis Bagian 01 yang sudah berhasil dibangun melalui GitHub Actions.
 
-APK dibuat melalui GitHub Actions, bukan secara lokal.
+### Modul
+1. Kelompok
+2. Subkelompok fleksibel
+3. Anggota
+4. Status aktif/nonaktif
+5. Struktur database riwayat keanggotaan
 
-Bagian 02 dan seterusnya akan ditambahkan ke repository yang sama.
-Jangan mencampurkan project ini dengan SIMANO LAUNDRY V1 atau SIMMANO KASIR & SERVIS V1.
+### Prinsip
+**Sederhana digunakan — Transparan dikelola — Histori aman.**
+
+Jangan mencampurkan repository ini dengan SIMANO LAUNDRY V1 atau SIMMANO KASIR & SERVIS V1.
